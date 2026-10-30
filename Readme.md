@@ -104,7 +104,7 @@ Includes:
 
 | Project | Description | Demo |
 |---|---|---|
-| [inverter-predictive-ai](https://github.com/PRATdoppelEK/inverter-predictive-ai) | Inverter fleet health monitoring | [Live on HF Spaces] |
+| [inverter-predictive-ai](https://github.com/PRATdoppelEK/inverter-predictive-ai) | Inverter fleet health monitoring | [Live on Streamlit Cloud] |
 | [tender-compliance-rag](https://github.com/PRATdoppelEK/tender-compliance-rag) | Tender & grid compliance RAG | [Live on Streamlit] |
 | [franchise-accounting-ai](https://github.com/PRATdoppelEK/franchise-accounting-ai) | Franchise royalty & anomaly detection | GitHub |
 | [hitl-ops](https://github.com/PRATdoppelEK/hitl-ops) | Human-in-the-Loop ML operations | GitHub |
